@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\EjerciciosEstructura.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\EjerciciosEstructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\EjerciciosEstructura.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\EjerciciosEstructura.AssemblyInfo.cs
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\EjerciciosEstructura.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\bin\Debug\net6.0\EjerciciosEstructura.exe
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\bin\Debug\net6.0\EjerciciosEstructura.deps.json
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\bin\Debug\net6.0\EjerciciosEstructura.runtimeconfig.json
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\bin\Debug\net6.0\EjerciciosEstructura.dll
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\bin\Debug\net6.0\EjerciciosEstructura.pdb
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\EjerciciosEstructura.dll
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\refint\EjerciciosEstructura.dll
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\EjerciciosEstructura.pdb
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\EjerciciosEstructura.genruntimeconfig.cache
+C:\Users\HP\source\repos\EjerciciosEstructura\EjerciciosEstructura\obj\Debug\net6.0\ref\EjerciciosEstructura.dll
